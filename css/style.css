@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: #F3F1FF;
+}
+
+.container h3{
+    color: #562EFF;
+}
+
+header{
+    background-color: #562EFF;
+}
+
+.navbar img{
+    width: 41px;
+}
+
+.logo{
+    padding-top: 8px !important;
+}
+.navbar-nav li a{
+    display: inline-block;
+    margin-left: 20px;
+    padding-top: 15px;
+}
+
+/* Players section start ============================= */
+
+.players-section .container{
+    margin-top: 30px;
+    background-color: #fff;
+    padding: 40px;
+}
+
+.players-section img{
+    width: 56px;
+    height: 56px;
+}
+
+
+/* Players section end ============================= */
+
+hr{
+    margin: 0;
+}
+
+/* Blog section start ============================= */
+
+.blog-section .container{
+    background-color: #fff;
+    padding: 40px;
+}
+.blog-section img{
+    width: 177px;
+    height: 117px;
+}
+
+.blog{
+    margin: 16px 0;
+    display: flex;
+    align-items: center;
+}
+
+.blog-content{
+    margin-left: 20px;
+    line-height: 1;
+}
+
+.blog-content p{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.blog-content span{
+    color: #9F9F9F;
+}
+
+
+
+/* Blog section end ============================= */
+
+
+/* courses section start ============================= */
+
+.course-section .container{
+    background-color: #fff;
+    padding: 40px;
+    margin-top: 20px;
+}
+.course-section img{
+    width: 100%
+}
+
+.card{
+    border: none;
+    margin: 20px 0;
+    padding: 10px;
+}
+
+.card-body{
+    padding: 20px 0;
+}
+
+.card-body h5{
+    line-height: 27px;
+    color: #1E1E1E;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.card-body p{
+    color: #ED6B4F;
+    font-size: 15px;
+}
+
+.card-footer{
+    border: none;
+    padding: 10px 0;
+    background-color: transparent;
+}
+
+.card-footer img{
+    width: 15px;
+    height: 15px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.card-footer p{
+    margin: 0;
+}
+
+.time{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: #FEE5DF;
+    border-radius: 22px;
+    color:
+}
+
+.time p{
+    margin-left: 10px;
+    color: #ED6B4F;
+}
+
+
+
+
+
+
+
+
+
+
+/* courses section end ============================= */
+
+
