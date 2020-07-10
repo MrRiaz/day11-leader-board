@@ -31,7 +31,7 @@ header{
 .players-section .container{
     margin-top: 30px;
     background-color: #fff;
-    padding: 40px;
+    padding: 30px;
 }
 
 .players-section img{
@@ -50,7 +50,7 @@ hr{
 
 .blog-section .container{
     background-color: #fff;
-    padding: 40px;
+    padding: 30px;
 }
 
 .blog-img{
@@ -92,7 +92,7 @@ hr{
 
 .course-section .container{
     background-color: #fff;
-    padding: 40px;
+    padding: 30px;
     margin-top: 20px;
 }
 .course-section img{
