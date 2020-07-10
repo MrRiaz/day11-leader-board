@@ -140,9 +140,9 @@ hr{
     display: flex;
     justify-content: flex-end;
     align-items: center;
+    width: 60%;
     background-color: #FEE5DF;
     border-radius: 22px;
-    color:
 }
 
 .time p{
