@@ -52,20 +52,24 @@ hr{
     background-color: #fff;
     padding: 40px;
 }
+
+.blog-img{
+    margin: 15px 0;
+}
 .blog-section img{
     width: 177px;
     height: 117px;
 }
 
-.blog{
+/* .blog{
     margin: 16px 0;
     display: flex;
     align-items: center;
-}
+} */
 
 .blog-content{
-    margin-left: 20px;
     line-height: 1;
+    margin: 10px 0 15px 0;
 }
 
 .blog-content p{
@@ -80,6 +84,8 @@ hr{
 
 
 /* Blog section end ============================= */
+
+
 
 
 /* courses section start ============================= */
